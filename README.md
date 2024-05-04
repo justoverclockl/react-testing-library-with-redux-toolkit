@@ -1,6 +1,6 @@
 # Test component with redux toolkit - Marco Colia
 
-First we need to be sure that all the packages are updated to the latest version:
+First we need to be sure that all the packages are updated to the latest version (at moment these are the latest):
 
 -  "@testing-library/jest-dom": "^6.4.5",
 -   "@testing-library/react": "^15.0.6",
